@@ -1,0 +1,124 @@
+[{
+  "_id": {
+    "$oid": "67522790a8570b91ba7f5a0d"
+  },
+  "title": "1984",
+  "author": "George Orwell",
+  "publisher": "Secker & Warburg",
+  "isbn": "978-0451524935",
+  "status": false,
+  "checked_out_by": null,
+  "due_date": null
+},
+{
+  "_id": {
+    "$oid": "6752291da8570b91ba7f5a10"
+  },
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "publisher": "J.B. Lippincott & Co.",
+  "isbn": "978-0061120084",
+  "status": false,
+  "checked_out_by": null,
+  "due_date": null
+},
+{
+  "_id": {
+    "$oid": "67522a56a8570b91ba7f5a12"
+  },
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "publisher": "T. Egerton",
+  "isbn": "978-1503290563",
+  "status": false,
+  "checked_out_by": null,
+  "due_date": null
+},
+{
+  "_id": {
+    "$oid": "67522ae4a8570b91ba7f5a14"
+  },
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "publisher": "Charles Scribner's Sons",
+  "isbn": "978-0743273565",
+  "status": true,
+  "checked_out_by": "Bryan",
+  "due_date": {
+    "$date": "2024-12-14T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67522b7ca8570b91ba7f5a16"
+  },
+  "title": "The Catcher in the Rye",
+  "author": "J.D. Salinger",
+  "publisher": "Little, Brown and Company",
+  "isbn": "978-0316769488",
+  "status": false,
+  "checked_out_by": null,
+  "due_date": null
+},
+{
+  "_id": {
+    "$oid": "67522c86a8570b91ba7f5a17"
+  },
+  "title": "The Hobbit",
+  "author": "J.R.R. Tolkien",
+  "publisher": "George Allen & Unwin",
+  "isbn": "978-0547928227",
+  "status": false,
+  "checked_out_by": null,
+  "due_date": null
+},
+{
+  "_id": {
+    "$oid": "67522d23a8570b91ba7f5a18"
+  },
+  "title": "Moby-Dick",
+  "author": "Herman Melville",
+  "publisher": "Harper & Brothers",
+  "isbn": "978-1503280786",
+  "status": true,
+  "checked_out_by": "rudy",
+  "due_date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67522db9a8570b91ba7f5a1a"
+  },
+  "title": "The Alchemist",
+  "author": "Paulo Coelho",
+  "publisher": "HarperOne",
+  "isbn": "978-0061122415",
+  "status": false,
+  "checked_out_by": null,
+  "due_date": null
+},
+{
+  "_id": {
+    "$oid": "67522e62a8570b91ba7f5a1b"
+  },
+  "title": "Brave New World",
+  "author": "Aldous Huxley",
+  "publisher": "Chatto & Windus",
+  "isbn": "978-0060850524",
+  "status": false,
+  "checked_out_by": null,
+  "due_date": null
+},
+{
+  "_id": {
+    "$oid": "67522f9ca8570b91ba7f5a1d"
+  },
+  "title": "Harry Potter and the Sorcerer’s Stone",
+  "author": "J.K. Rowling",
+  "publisher": "Scholastic",
+  "isbn": "978-0439708180",
+  "status": false,
+  "checked_out_by": null,
+  "due_date": null
+}]
